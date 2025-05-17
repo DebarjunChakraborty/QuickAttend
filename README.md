@@ -15,11 +15,10 @@ A QR-based attendance system designed to automate and simplify attendance tracki
 7. [Testing](#testing)
 8. [Technologies](#technologies)
 9. [Contributing](#contributing)
-10. [Licence](#licence)
-11. [Authors](#authors)
-12. [Acknowledgements](#acknowledgements)
-13. [References](#references)
-14. [Project Link](#project-link)
+10. [Authors](#authors)
+11. [Acknowledgements](#acknowledgements)
+12. [References](#references)
+13. [Project Link](#project-link)
 
 ---
 
@@ -124,7 +123,6 @@ Contributions are welcome! To propose changes, please fork the repository and op
 
 - Prof. Maya Nair (Project Guide)
 - Dr. Manoj Singh (Head of Department)
-- S.I.E.S College of Arts, Science and Commerce, Sion(W), Mumbai
 
 ## References
 
